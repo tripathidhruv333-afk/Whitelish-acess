@@ -23,7 +23,7 @@ document.getElementById("name").value;
 const msg =
 document.getElementById("message").value;
 
-fetch("WEBHOOK_URL_YAHAN", {
+fetch("https://discord.com/api/webhooks/1550585298017058999/hRs9SlXT83cY9osHLjxmE4WeKOHp_Egejfx3RI_hTWHx-NJFL1ycxr1itTw-wtE8cqk8", {
 method: "POST",
 headers: {
 "Content-Type": "application/json"
