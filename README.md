@@ -8,9 +8,9 @@
 
 <h2>Send Message To Minecraft</h2>
 
-<input id="name" placeholder="Your Name"><br><br>
+<input id="name" placeholder="Game name"><br><br>
 
-<input id="message" placeholder="Message"><br><br>
+<input id="message" placeholder="JAVA?-&-PE?"><br><br>
 
 <button onclick="sendMessage()">Submit</button>
 
